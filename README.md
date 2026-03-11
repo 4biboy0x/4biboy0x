@@ -1,59 +1,33 @@
-```markdown
 <div align="center">
 
-# 0x4bibo | Security Researcher & Developer
-  
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=000000&height=200&section=header&text=4bibo&fontSize=90&animation=twinkling&fontAlignY=38&fontColor=FF00FF)
+# ⚡ 0x4bibo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F500FF&width=435&lines=Building+Secure+Systems;Hunting+Logic+Flaws;Python+Automation+Expert;ENPEI+Student)](https://git.io/typing-svg)
+![Banner](https://capsule-render.vercel.app/render?type=rect&color=000000&height=120&section=header&text=SECURITY%20RESEARCHER&fontSize=40&animation=fadeIn&fontColor=FF00FF)
 
-</div>
-
-### 📂 [~/4bibo] whoami
-I am a security researcher and developer based in **Algeria**. I specialize in identifying **Broken Access Control** and **IDOR** vulnerabilities while building high-performance automation tools in **Python** and **C**.
-
-```bash
-$ info --profile
-INSTITUTE:  National Polytechnic School (ENPEI)
-STATUS:     Actively Hunting Bugs & Building MVPs
-VIBE:       Green Monospace & ASCII Art
-
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F500FF&center=true&vCenter=true&width=435&lines=Web+Security;Python+Automation;Bug+Bounty+Hunter;ENPEI+Student)](https://git.io/typing-svg)
 
 ---
 
-### 📊 Vital Statistics
+### 🟢 WHOAMI
+I am a Security Researcher and Developer based in **Algeria**. Specialized in **Web Security** and building high-performance automation tools.
 
-<div align="center">
-
-| **GitHub Activity** | **Programming Languages** |
-| --- | --- |
-|  |  |
-
-</div>
+`[C]` • `[Python]` • `[Docker]` • `[Supabase]` • `[Linux]`
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-</div>
-
----
-
-### 👾 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4biboyy&theme=tokyonight&bg_color=00000000&hide_border=true" width="100%">
-</div>
+### 📊 SYSTEM METRICS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4biboyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4biboyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+</p>
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=4biboyy&color=ff00ff&style=flat-square&label=PROFILE+VIEWS" alt="views">
+### 📈 ACTIVITY MATRIX
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4biboyy&theme=tokyonight&bg_color=00000000&hide_border=true&area=true)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=4biboyy&color=ff00ff&style=flat-square&label=ACCESS+GRANTED" alt="Views" />
+
 </div>
-
-```
-
-```
