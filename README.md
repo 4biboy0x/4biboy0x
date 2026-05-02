@@ -1,12 +1,13 @@
-<div align="center">
+> Engineering Student @ ENPEI
+> Based in Algeria<div align="center">
 
 # ⚡ 0x4bibo
 
 ### 🛡️ Cybersecurity Researcher & Bug Bounty Hunter
 **Specializing in Broken Access Control & IDOR Vulnerabilities**
 
-[![IFERP Certified](https://img.shields.io/badge/Vulnerability_Research-IFERP-purple?style=for-the-badge&logo=securityscorecard)](https://github.com/0x4bibo)
-[![Bug Bounty](https://img.shields.io/badge/Platforms-Meta%20%7C%20Odigix-blue?style=for-the-badge&logo=hackerone)](https://github.com/0x4bibo)
+[![Vulnerability Research](https://img.shields.io/badge/Vulnerability_Research-IFERP-purple?style=for-the-badge)](https://github.com/0x4bibo)
+[![Platforms](https://img.shields.io/badge/Platforms-Meta%20%7C%20Odigix-blue?style=for-the-badge)](https://github.com/0x4bibo)
 
 ---
 
@@ -35,11 +36,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4bibo&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
 ```text
-> Engineering Student
+> Engineering Student @ ENPEI
 > Based in Algeria
 > Status: Hunting Bugs... 🐛
-```
-
-</div>
