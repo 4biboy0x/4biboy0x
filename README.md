@@ -1,16 +1,6 @@
-
 <div align="center">
 
 # ⚡ 0x4bibo
-  _  _    _     _ _            
- | || | | |__ (_) |__   ___  
- | || |_| '_ \| | '_ \ / _ \ 
- |__   _| |_) | | |_) | (_) |
-    |_| |_.__/|_|_.__/ \___/ 
-                             
- [ SYSTEM ACCESS: GRANTED ]
-
----
 
 ### 🛡️ Cybersecurity Researcher & Bug Bounty Hunter
 **Specializing in Broken Access Control & IDOR Vulnerabilities**
@@ -22,19 +12,19 @@
 
 ### 🛠️ Technical Arsenal
 
-| Language | Technologies & Frameworks |
+| Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Backend** | Python, C, C++, PHP |
-| **Frontend** | JavaScript, TypeScript, React |
+| **Languages** | Python, C, C++, PHP, JavaScript, TypeScript |
+| **Frameworks** | React |
 | **Database** | Supabase, SQLite |
-| **Automation** | Bash Scripting, Repo Time Machine |
+| **Tools** | Git, Bash, Repo Time Machine |
 
 ---
 
 ### 🧬 Current Operations
 
-*   **VORTEX**: Building a high-performance Discord game bot with interactive mechanics.
-*   **VOID**: Developing a dark/cyberpunk themed anonymous social media platform.
+*   **VORTEX**: High-performance Discord game bot with interactive mechanics.
+*   **VOID**: Dark/cyberpunk themed anonymous social media platform built with React and Supabase.
 *   **Security Research**: Identifying logic bypasses and session management flaws in mobile ecosystems.
 
 ---
@@ -47,10 +37,9 @@
 ---
 
 ```text
-> Engineering Student @ ENPEI
+> Engineering Student
 > Based in Algeria
 > Status: Hunting Bugs... 🐛
 ```
 
 </div>
-```
