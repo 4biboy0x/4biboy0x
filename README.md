@@ -1,5 +1,4 @@
-> Engineering Student @ ENPEI
-> Based in Algeria<div align="center">
+<div align="center">
 
 # ⚡ 0x4bibo
 
@@ -32,11 +31,17 @@
 
 ### 📊 Network Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x4bibo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4bibo&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=0x4bibo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=0x4bibo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=0x4bibo&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4bibo&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Langs" />
+</p>
 
 ---
+
 ```text
 > Engineering Student @ ENPEI
 > Based in Algeria
 > Status: Hunting Bugs... 🐛
+```
+
+</div>
