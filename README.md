@@ -1,5 +1,5 @@
 ```text
-><div align="center">
+<div align="center">
 
 # ⚡ 0x4bibo
 ```text
