@@ -39,7 +39,7 @@
 ---
 
 ```text
-> Engineering Student @ ENPEI
+> Engineering Student
 > Based in Algeria
 > Status: Hunting Bugs... 🐛
 ```
