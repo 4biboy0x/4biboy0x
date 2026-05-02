@@ -1,4 +1,4 @@
-```text
+
 <div align="center">
 
 # ⚡ 0x4bibo
@@ -10,7 +10,6 @@
     |_| |_.__/|_|_.__/ \___/ 
                              
  [ SYSTEM ACCESS: GRANTED ]
-```
 
 ---
 
